@@ -8,15 +8,7 @@ namespace Spam01
 {
     public class SpamBot
     {
-        public string fmail;
-        public string ps;
-        public string tmail;
-        public string sub;
-        public string mes;
-        public string log;
-        public string pass;
-
-        public void Spam()
+        public async void SpamAsync(string fmail, string ps, string tmail, string sub, string mes, string log, string pass)
         {
             MailAddress from = new MailAddress(fmail, ps);
             MailAddress to = new MailAddress(tmail);
@@ -27,7 +19,9 @@ namespace Spam01
             SmtpClient smtp = new SmtpClient("smtp.mail.ru", 2525);
             smtp.Credentials = new NetworkCredential(log, pass);
             smtp.EnableSsl = true;
-            smtp.Send(m);
+            await smtp.SendMailAsync(m);
+            Console.WriteLine("Письмо отправлено " + fmail);
+            
         }
     }
 }
