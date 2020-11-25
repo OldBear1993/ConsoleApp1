@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E3E4D319-DF1D-4E38-95F0-799A9E2B3255}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailSpamBot", "EmailSpamBot\EmailSpamBot.csproj", "{19731AE4-324B-4D05-9EC3-93F679EBF825}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E3E4D319-DF1D-4E38-95F0-799A9E2B3255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3E4D319-DF1D-4E38-95F0-799A9E2B3255}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3E4D319-DF1D-4E38-95F0-799A9E2B3255}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3E4D319-DF1D-4E38-95F0-799A9E2B3255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19731AE4-324B-4D05-9EC3-93F679EBF825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19731AE4-324B-4D05-9EC3-93F679EBF825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19731AE4-324B-4D05-9EC3-93F679EBF825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19731AE4-324B-4D05-9EC3-93F679EBF825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

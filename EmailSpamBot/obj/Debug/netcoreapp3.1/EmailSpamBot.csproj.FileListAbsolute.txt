@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\bin\Debug\netcoreapp3.1\EmailSpamBot.exe
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\bin\Debug\netcoreapp3.1\EmailSpamBot.deps.json
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\bin\Debug\netcoreapp3.1\EmailSpamBot.runtimeconfig.json
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\bin\Debug\netcoreapp3.1\EmailSpamBot.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\bin\Debug\netcoreapp3.1\EmailSpamBot.dll
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\bin\Debug\netcoreapp3.1\EmailSpamBot.pdb
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.dll
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.pdb
+C:\Users\ASUS\source\repos\EmailSpamBot\EmailSpamBot\obj\Debug\netcoreapp3.1\EmailSpamBot.genruntimeconfig.cache
